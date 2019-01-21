@@ -7,8 +7,8 @@
 原理:采用另外一个监视进程去监视主程序是否在正常运作，优点是灵活性高，报警以后能运行指定的程序
 ![image](https://github.com/jia175891641/BR010-exp1/blob/master/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%89%88%E6%9C%AC.PNG)
 精简版:
-原理：利用死等语句自带的报警功能，有点是语句简洁，缺点是报警后不能做其他事情(如果要做，也是可以，需要外接线路实现,将报警的输出口外接一个24V的中间继电器去触发急停键或者其他输出口)
-![image](https://github.com/jia175891641/BR010-One_Axis_CNC_drilling_System_fengduan/blob/master/精简版.PNG)
+原理：利用死等语句自带的报警功能，有点是语句简洁，缺点是报警后不能做其他事情(如果要做，也是可以，需要外接线路实现,将报警的输出口外接一个24V的中间继电器去触发急停键或者其他输出口)  
+![image](https://github.com/jia175891641/BR010-exp1/blob/master/%E7%B2%BE%E7%AE%80%E7%89%88.PNG)
 
 # 程序下载
       点击 右上方 绿色的`Clone or download` 再点 Download Zip 下载后解压 
